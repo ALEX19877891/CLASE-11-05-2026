@@ -1,0 +1,11 @@
+# Programa de multiplicación sucesiva
+
+numero = int(input("Ingrese un número: "))
+veces = int(input("¿Cuántas veces desea multiplicarlo?: "))
+
+resultado = 1
+
+for i in range(veces):
+    resultado = resultado * numero
+
+print("El resultado es:", resultado)
