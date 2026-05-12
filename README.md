@@ -2,7 +2,7 @@
 PRACTICA DE LA CLASE 11/05/2026
 
 ## # Programa de multiplicación sucesiva
-# Descrpcion : El código realiza una multiplicación sucesiva de un número ingresado por el usuario, repitiendo la operación varias veces según la cantidad indicada, y luego muestra el resultado final en pantalla.
+# Descripcion : El código realiza una multiplicación sucesiva de un número ingresado por el usuario, repitiendo la operación varias veces según la cantidad indicada, y luego muestra el resultado final en pantalla.
 #paso a paso
 Solicita al usuario un número.
 Pide cuántas veces se multiplicará el número.
